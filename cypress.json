@@ -1,0 +1,8 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "viewportWidth": 700,
+    "viewportHeight": 721,
+    "experimentalStudio": false
+
+
+}
